@@ -1,0 +1,130 @@
+Pizza,diameter,topping,variant,size,extra_sauce,extra_cheese,price_rupiah,price _inr
+ Alfredos,22,chicken,double_signature,jumbo,yes,yes,"235,000",1214.5
+ Alfredos,20,papperoni,double_signature,jumbo,yes,yes,"198,000",1023.3
+ Alfredos,16,mushrooms,double_signature,reguler,yes,yes,"120,000",620.2
+ Alfredos,14,smoked beef,double_signature,reguler,yes,no,"155,000",801.0
+ Alfredos,18,mozzarella,double_signature,jumbo,yes,no,"248,000",1281.7
+ Alfredos,18.5,black papper,american_favorite,jumbo,no,no,"140,000",723.5
+ Alfredos,16,smoked beef,american_favorite,jumbo,no,yes,"110,000",568.5
+ Alfredos,8,papperoni,american_favorite,reguler,no,no,"70,000",361.8
+ Alfredos,12,mushrooms,american_favorite,reguler,yes,no,"90,000",465.1
+ Alfredos,12,smoked beef,american_favorite,reguler,no,no,"90,000",465.1
+ Alfredos,18.5,mozzarella,super_supreme,jumbo,no,no,"140,000",723.5
+ Alfredos,16,black papper,super_supreme,jumbo,yes,yes,"110,000",568.5
+ Alfredos,8,smoked beef,super_supreme,reguler,yes,yes,"70,000",361.8
+ Alfredos,12,black papper,super_supreme,reguler,no,yes,"90,000",465.1
+ Alfredos,12,mozzarella,super_supreme,reguler,no,yes,"90,000",465.1
+ Alfredos,18.5,mozzarella,meat_lovers,jumbo,no,yes,"140,000",723.5
+ Alfredos,16,smoked beef,meat_lovers,jumbo,no,yes,"110,000",568.5
+ Alfredos,8,chicken,meat_lovers,reguler,yes,yes,"70,000",361.8
+ Alfredos,12,mushrooms,meat_lovers,reguler,yes,yes,"90,000",465.1
+ Alfredos,12,mozzarella,meat_lovers,reguler,yes,yes,"90,000",465.1
+ Alfredos,22,chicken,double_mix,jumbo,yes,yes,"230,000",1188.6
+ Alfredos,18.5,mushrooms,double_mix,jumbo,yes,yes,"188,000",971.6
+ Alfredos,14,chicken,double_mix,reguler,yes,yes,"114,000",589.1
+ Alfredos,16.5,smoked beef,double_mix,reguler,yes,no,"149,000",770.0
+ Alfredos,16.5,chicken,double_mix,reguler,yes,no,"149,000",770.0
+PizzaHut,8.5,mozzarella,classic,small,yes,no,"23,500",121.4
+PizzaHut,12,chicken,classic,medium,yes,no,"46,000",237.7
+PizzaHut,14,smoked beef,classic,large,yes,no,"72,000",372.1
+PizzaHut,12,mozzarella,crunchy,medium,no,no,"49,000",253.2
+PizzaHut,17,chicken,new_york,XL,no,yes,"83,000",428.9
+PizzaHut,12,chicken,double_decker,medium,no,yes,"96,000",496.1
+PizzaHut,8.5,mushrooms,classic,small,yes,yes,"31,000",160.2
+PizzaHut,12,chicken,classic,medium,no,yes,"69,000",356.6
+PizzaHut,14,mushrooms,classic,large,no,yes,"93,000",480.6
+PizzaHut,12,mushrooms,crunchy,medium,no,yes,"75,000",387.6
+PizzaHut,17,mozzarella,new_york,XL,no,yes,"115,000",594.3
+PizzaHut,12,smoked beef,double_decker,medium,yes,yes,"123,000",635.7
+PizzaHut,8.5,chicken,classic,small,no,yes,"33,000",170.5
+PizzaHut,12,mozzarella,classic,medium,yes,yes,"46,000",237.7
+PizzaHut,14,chicken,classic,large,yes,yes,"72,000",372.1
+PizzaHut,12,chicken,crunchy,medium,no,no,"76,000",392.8
+PizzaHut,17,mushrooms,new_york,XL,yes,no,"119,000",615.0
+PizzaHut,12,smoked beef,double_decker,medium,yes,no,"126,500",653.7
+PizzaHut,8.5,smoked beef,classic,small,yes,yes,"75,000",387.6
+PizzaHut,12,mushrooms,classic,medium,yes,yes,"46,000",237.7
+PizzaHut,14,mozzarella,classic,large,yes,yes,"72,000",372.1
+PizzaHut,12,smoked beef,crunchy,medium,no,yes,"49,000",253.2
+PizzaHut,17,chicken,new_york,XL,no,yes,"83,000",428.9
+PizzaHut,12,mushrooms,double_decker,medium,no,yes,"96,000",496.1
+ChuckeCheese,8.5,tuna,spicy_tuna,small,yes,yes,"39,000",201.6
+ChuckeCheese,12,tuna,spicy_tuna,medium,yes,yes,"72,000",372.1
+ChuckeCheese,14,tuna,spicy_tuna,large,yes,yes,"99,000",511.6
+ChuckeCheese,8.5,meat,BBQ_meat_fiesta,small,yes,no,"44,000",227.4
+ChuckeCheese,12,meat,BBQ_meat_fiesta,medium,no,no,"78,000",403.1
+ChuckeCheese,14,meat,BBQ_meat_fiesta,large,yes,no,"105,000",542.6
+ChuckeCheese,8.5,sausage,BBQ_sausage,small,no,yes,"39,000",201.6
+ChuckeCheese,12,sausage,BBQ_sausage,medium,yes,yes,"72,000",372.1
+ChuckeCheese,14,sausage,BBQ_sausage,large,no,yes,"99,000",511.6
+ChuckeCheese,8.5,mushrooms,extravaganza,small,yes,yes,"35,000",180.9
+ChuckeCheese,12,onion,extravaganza,medium,yes,yes,"60,000",310.1
+ChuckeCheese,14,mozzarella,extravaganza,large,yes,yes,"98,000",506.5
+ChuckeCheese,8.5,meat,meat_eater,small,yes,yes,"35,000",180.9
+ChuckeCheese,12,meat,meat_eater,medium,yes,yes,"60,000",310.1
+ChuckeCheese,14,meat,meat_eater,large,yes,yes,"98,000",506.5
+ChuckeCheese,8.5,vegetables,gournet_greek,small,no,no,"44,000",227.4
+ChuckeCheese,12,vegetables,gournet_greek,medium,no,no,"78,000",403.1
+ChuckeCheese,14,vegetables,gournet_greek,large,no,no,"105,000",542.6
+ChuckeCheese,8.5,vegetables,italian_veggie,small,no,yes,"28,000",144.7
+ChuckeCheese,12,vegetables,italian_veggie,medium,no,yes,"51,000",263.6
+ChuckeCheese,14,vegetables,italian_veggie,large,yes,yes,"84,000",434.1
+ChuckeCheese,8.5,vegetables,thai_veggie,small,no,yes,"39,000",201.6
+ChuckeCheese,12,vegetables,thai_veggie,medium,yes,no,"72,000",372.1
+ChuckeCheese,14,vegetables,thai_veggie,large,no,no,"99,000",511.6
+ChuckeCheese,8.5,beef,american_classic,small,yes,no,"35,000",180.9
+ChuckeCheese,12,beef,american_classic,medium,yes,no,"60,000",310.1
+ChuckeCheese,14,beef,american_classic,large,yes,no,"98,000",506.5
+ChuckeCheese,8.5,tuna,neptune_tuna,small,yes,no,"32,000",165.4
+ChuckeCheese,12,tuna,neptune_tuna,medium,yes,yes,"54,000",279.1
+ChuckeCheese,14,tuna,neptune_tuna,large,yes,yes,"92,000",475.5
+Dominos,18.5,mozzarella,meat_lovers,jumbo,no,yes,"140,000",723.5
+Dominos,16,smoked beef,meat_lovers,jumbo,no,yes,"110,000",568.5
+Dominos,8,chicken,meat_lovers,reguler,yes,yes,"70,000",361.8
+Dominos,12,mushrooms,meat_lovers,reguler,yes,yes,"90,000",465.1
+Dominos,12,mozzarella,meat_lovers,reguler,yes,yes,"90,000",465.1
+Dominos,22,chicken,double_mix,jumbo,yes,yes,"230,000",1188.6
+Dominos,18.5,mushrooms,double_mix,jumbo,yes,yes,"188,000",971.6
+Dominos,14,chicken,double_mix,reguler,yes,yes,"114,000",589.1
+Dominos,16.5,smoked beef,double_mix,reguler,yes,no,"149,000",770.0
+Dominos,16.5,chicken,double_mix,reguler,yes,no,"149,000",770.0
+Dominos,8.5,mozzarella,classic,small,yes,no,"23,500",121.4
+Dominos,12,chicken,classic,medium,yes,no,"46,000",237.7
+Dominos,14,smoked beef,classic,large,yes,no,"72,000",372.1
+Dominos,12,mozzarella,crunchy,medium,no,no,"49,000",253.2
+Dominos,17,chicken,new_york,XL,no,yes,"83,000",428.9
+Dominos,12,chicken,double_decker,medium,no,yes,"96,000",496.1
+Dominos,8.5,mushrooms,classic,small,yes,yes,"31,000",160.2
+Dominos,12,chicken,classic,medium,no,yes,"69,000",356.6
+Dominos,14,mushrooms,classic,large,no,yes,"93,000",480.6
+Dominos,12,mushrooms,crunchy,medium,no,yes,"75,000",387.6
+SalsPizzaB99,17,mozzarella,new_york,XL,no,yes,"115,000",594.3
+SalsPizzaB99,8.5,mozzarella,classic,small,yes,no,"23,500",121.4
+SalsPizzaB99,12,chicken,classic,medium,yes,no,"46,000",237.7
+SalsPizzaB99,14,smoked beef,classic,large,yes,no,"72,000",372.1
+SalsPizzaB99,12,mozzarella,crunchy,medium,no,no,"49,000",253.2
+SalsPizzaB99,17,chicken,new_york,XL,no,yes,"83,000",428.9
+SalsPizzaB99,12,chicken,double_decker,medium,no,yes,"96,000",496.1
+SalsPizzaB99,8.5,mushrooms,classic,small,yes,yes,"31,000",160.2
+SalsPizzaB99,12,chicken,classic,medium,no,yes,"69,000",356.6
+SalsPizzaB99,14,mushrooms,classic,large,no,yes,"93,000",480.6
+SalsPizzaB99,12,mushrooms,crunchy,medium,no,yes,"75,000",387.6
+SalsPizzaB99,17,mozzarella,new_york,XL,no,yes,"115,000",594.3
+SalsPizzaB99,12,smoked beef,double_decker,medium,yes,yes,"123,000",635.7
+SalsPizzaB99,8.5,chicken,classic,small,no,yes,"33,000",170.5
+SalsPizzaB99,12,mozzarella,classic,medium,yes,yes,"46,000",237.7
+SalsPizzaB99,14,chicken,classic,large,yes,yes,"72,000",372.1
+SalsPizzaB99,12,chicken,crunchy,medium,no,no,"76,000",392.8
+SalsPizzaB99,17,mushrooms,new_york,XL,yes,no,"119,000",615.0
+SalsPizzaB99,12,smoked beef,double_decker,medium,yes,no,"126,500",653.7
+SalsPizzaB99,8.5,smoked beef,classic,small,yes,yes,"75,000",387.6
+SalsPizzaB99,12,mushrooms,classic,medium,yes,yes,"46,000",237.7
+SalsPizzaB99,14,mozzarella,classic,large,yes,yes,"72,000",372.1
+SalsPizzaB99,12,smoked beef,crunchy,medium,no,yes,"49,000",253.2
+SalsPizzaB99,17,chicken,new_york,XL,no,yes,"83,000",428.9
+SalsPizzaB99,12,mushrooms,double_decker,medium,no,yes,"96,000",496.1
+SalsPizzaB99,8.5,tuna,spicy tuna,small,yes,yes,"39,000",201.6
+SalsPizzaB99,12,tuna,spicy tuna,medium,yes,yes,"72,000",372.1
+SalsPizzaB99,14,tuna,spicy tuna,large,yes,yes,"99,000",511.6
+SalsPizzaB99,8.5,meat,BBQ_meat_fiesta,small,yes,no,"44,000",227.4
+SalsPizzaB99,12,meat,BBQ_meat_fiesta,medium,no,no,"78,000",403.1
