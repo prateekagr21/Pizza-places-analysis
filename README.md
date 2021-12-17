@@ -9,4 +9,8 @@ we did the analysis part and thrn there was a problem that cant be resolved
 so..
 it needed some changes and some hyperparameter tuning was done!
 and done with the dataset here!
-!!!
+
+One small question just 1
+:- Pizza by Alfredo or alfredo's Pizza cafe ?
+
+A little amount of good pizza or an all you can eat pretty good pizzaa.
