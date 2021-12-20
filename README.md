@@ -74,4 +74,4 @@ With bread, cheese and tomato sauce as its base, pizza might seem like a simple 
 ![pizza3](https://user-images.githubusercontent.com/73397927/146818877-6fb6b9bd-f9c1-4d59-8ede-b64c9e697fb2.jpg)
 
 ## _And for the conclusion -_
-#### _From the above three trained Models, It can be seen that the Random Forest Regressor model performed better than theRandomForestRegressor and Linear Regressor Model._
+#### _From the above three trained Models, It can be seen that the Random Forest Regressor model performed better than xgboost and the Linear Regressor Model._
